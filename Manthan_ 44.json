@@ -1,0 +1,71 @@
+{
+    "course": {
+        "id": "44",
+        "name": "Manthan",
+        "logo": "https://bit.ly/2OPsppK",
+        "notes": null,
+        "days_to_complete": "30",
+        "short_description": "Manthan Opportunities and Experiences",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "4287",
+                "parent_exercise_id": null,
+                "course_id": "44",
+                "name": "What is Manthan",
+                "slug": "manthan__introduction_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/manthan/introduction.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "What is Manthan\n\n> We are a country of a billion plus people. At least 10 million Gandhi(s) are needed to solve the problems faced by the billion of\u00a0us.\n\n\nEducation isn't just equipping students with the hard skills like Software Engineering, but also exposing them to experiences that facilitate a strong connection between themselves and the community. Alignment with one's own self is critical for achieving harmony with one's environment. Such experiences help to nurture an understanding of our own selves and be more aware.\n\n\n\n\nThere are various such opportunities to learn within the campus, during the year itself. **However, we realized that we can never cover the diversified range of experiences with high intensity and depth that the ecosystem around has to offer to effectively help the you**. To ensure that you can learn from such a vibrant ecosystem, we launched a program called \"**Manthan**\". Under Manthan, we have partnered with organizations who provide a range of experiences and also ensure a dialogue with you on the questions persistent in you.\n\n\n\n**Manthan** will give you a strong and personalized exposure to several ideas out there that would facilitate your shaping into **a more aware person**. It not only puts you on a journey to **explore more** and get deeply connected to your own roots but also prepare you better **to respond to the unique challenges that are posed by workplaces today**.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4288",
+                "parent_exercise_id": null,
+                "course_id": "44",
+                "name": "Selection Process",
+                "slug": "manthan__selection_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/manthan/selection.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Manthan Selection Criteria\n\nIn order to be fair and transparent, we have documented the process of selection of students for Manthan. Manthan selection is based on the following criteria:\n\n\n\n1. **Attitude**: This is the first and most important criteria for Manthan selection. Preference will be given to students who have shown discipline, sincerity, and respect for other community members in their behavior. Those students who have exhibited unruly behavior will not be considered for Manthan. DISCOs on campus, along with Governor, will take judgement on this.\n\n\n2. **Academics**: Your sincerity in academics will also be taken into consideration for your Manthan selection. You will be considered for Manthan only if you have been putting in sincere efforts in your studies. This is important because Manthan should be a way to explore new understandings, alongside your technical skills. If you are not sincere towards your studies, we will encourage you to increase your efforts there first, before exploring new learnings.\n\n\n3. **Interest**: There are many people who apply for the same Manthan opportunity. We will identify who is sui`tab`le for a specific opportunity based on the interest that you have shown. Your interest will be judged based on the form that you fill and a personal interview. If your form shows very low level of interest, then personal interview might not happen. In the form, the more detailed your answers are, the more interest it shows.\n\n\n\nCouncil Members and Award Winners:\n\n* There will be special consideration for Council members in upto two Manthan opportunities. This consideration will be based on how well you have fulfilled your Council responsibilities. If you have put in sincere effort in your Council duties, you will be given **preference** in two Manthan opportunities. This doesn't mean that you will definitely be selected. It means that if two students are similar on other criteria, a student who has sincerely served the community will get a preference.\n\n\n* Similar process will apply to the **winners** of **Dashrath Manjhi** and **Mary Kom** awards. Award winners will get a preference in two Manthan opportunities whenever they choose to apply.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4289",
+                "parent_exercise_id": null,
+                "course_id": "44",
+                "name": "Vipassana Guidelines",
+                "slug": "manthan__vipassana_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/manthan/vipassana.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": ">Guidelines Guidelines for students who wish to go to Vipassana Manthan\n- You can go for Vipassana only certain designated centres that are in proximity to your respective campuses\n- \n- Vipassana should be booked at least 30 days in advance of the program commencement date\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}
